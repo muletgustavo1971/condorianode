@@ -1,0 +1,5 @@
+{
+  "name": "Cóndor IA",
+  "description": "Asistente conversacional de IA para el personal policial del Ministerio de Seguridad y Justicia de Mendoza. Permite consultas en tiempo real sobre historiales, sospechosos, vehículos y modus operandi para agilizar la toma de decisiones en el campo.",
+  "requestFramePermissions": []
+}

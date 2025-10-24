@@ -1,0 +1,430 @@
+[REPORTE_911]
+ID_REPORTE: 20250615-00234
+TIPO_DELITO: Robo Agravado con Arma de Fuego
+FECHA: 2025-06-15
+HORA: 22:15
+DOMICILIO_HECHO: San Martín 1120, Godoy Cruz, Mendoza
+[VICTIMA]
+NOMBRE: Supermercado Vea (Encargado: Carlos Gutierrez)
+DNI: 25111444
+EDAD: 48
+GENERO: Masculino
+[IMPUTADO]
+NOMBRE: NN (Dos sujetos no identificados)
+DNI: NN
+EDAD: NN
+GENERO: Masculino
+[DESCRIPCION_HECHO]
+Dos sujetos ingresan al local comercial a la hora del cierre. Uno de ellos intimida al personal con un arma de fuego mientras el otro sustrae la recaudación del día de dos cajas registradoras. Huyen en una motocicleta de color oscuro.
+[PRUEBAS]
+- Filmación de cámaras de seguridad del local (DVR entregado a la UFI). - Testimonios de tres empleados y un cliente. - Vaina servida calibre 9mm encontrada en la entrada.
+[INTERVENCION_POLICIAL]
+Móvil 102 de la Comisaría 7ma arriba al lugar. Se activa protocolo de cerrojo vehicular sin resultados positivos inmediatos. Trabaja Policía Científica.
+[ESTADO_CASO]
+En Investigación / Prófugos
+---
+[REPORTE_911]
+ID_REPORTE: 20250702-00311
+TIPO_DELITO: Estafa Telefónica (Cuento del Tío)
+FECHA: 2025-07-02
+HORA: 11:30
+DOMICILIO_HECHO: Las Heras 890, San Rafael, Mendoza
+[VICTIMA]
+NOMBRE: Elida Rosa Gonzalez
+DNI: 5987123
+EDAD: 78
+GENERO: Femenino
+[IMPUTADO]
+NOMBRE: NN
+DNI: NN
+EDAD: NN
+GENERO: Masculino (por la voz)
+[DESCRIPCION_HECHO]
+La víctima recibe un llamado de un sujeto que se hace pasar por su nieto, indicándole que debe entregar todos sus ahorros en dólares y pesos a un "contador del banco" que pasará por su domicilio debido a una inminente devaluación. Un sujeto pasa a retirar el dinero una hora después.
+[PRUEBAS]
+- Registro de llamadas entrantes en el teléfono de la víctima. - Descripción fisonómica del sujeto que retiró el dinero. - Cámaras de seguridad de un vecino que captan un auto gris sin patente visible.
+[INTERVENCION_POLICIAL]
+Personal de la UFI de Delitos Económicos toma la denuncia. Se solicita a la empresa telefónica el rastreo de la llamada.
+[ESTADO_CASO]
+En Investigación
+---
+[REPORTE_911]
+ID_REPORTE: 20250811-00459
+TIPO_DELITO: Daño Agravado y Lesiones Leves
+FECHA: 2025-08-11
+HORA: 03:00
+DOMICILIO_HECHO: Arístides Villanueva 255, Ciudad de Mendoza, Mendoza
+[VICTIMA]
+NOMBRE: Bar "La Cervecería" (Propietario: Javier Luna)
+DNI: 30555888
+EDAD: 42
+GENERO: Masculino
+[IMPUTADO]
+NOMBRE: Facundo Dario Perez
+DNI: 40123456
+EDAD: 26
+GENERO: Masculino
+[DESCRIPCION_HECHO]
+Al imputado se le niega el ingreso al local por encontrarse en evidente estado de ebriedad. En respuesta, arroja una piedra de gran tamaño contra la vidriera del bar, provocando su rotura. Las esquirlas le producen un corte en el brazo a un guardia de seguridad.
+[PRUEBAS]
+- Testimonio del personal de seguridad y clientes. - Filmación de la cámara de seguridad de la entrada. - Constancia de atención médica del guardia lesionado.
+[INTERVENCION_POLICIAL]
+El imputado es aprehendido en el lugar por personal policial del móvil 45 que se encontraba patrullando la zona. Es trasladado a la Comisaría 1ra.
+[ESTADO_CASO]
+Un Detenido
+---
+[REPORTE_911]
+ID_REPORTE: 20250905-00512
+TIPO_DELITO: Violencia de Género / Desobediencia a Orden Judicial
+FECHA: 2025-09-05
+HORA: 18:20
+DOMICILIO_HECHO: Barrio Jardín, Manzana D, Casa 12, Luján de Cuyo, Mendoza
+[VICTIMA]
+NOMBRE: Laura Beatriz Fernandez
+DNI: 33876543
+EDAD: 39
+GENERO: Femenino
+[IMPUTADO]
+NOMBRE: Ricardo Alberto Sosa
+DNI: 32111999
+EDAD: 41
+GENERO: Masculino
+[DESCRIPCION_HECHO]
+La víctima, quien posee una prohibición de acercamiento vigente contra su ex-pareja (el imputado), llama al 911 reportando que el sujeto se encuentra fuera de su domicilio, gritando amenazas y golpeando la puerta de entrada.
+[PRUEBAS]
+- Copia de la medida cautelar de prohibición de acercamiento. - Grabación de la llamada al 911. - Testimonio de un vecino que corrobora los hechos.
+[INTERVENCION_POLICIAL]
+Móvil 115 de la Comisaría de Luján de Cuyo acude de inmediato. El imputado es aprehendido en flagrancia violando el perímetro de 300 metros impuesto por el juez.
+[ESTADO_CASO]
+Un Detenido
+---
+[REPORTE_911]
+ID_REPORTE: 20250920-00677
+TIPO_DELITO: Hurto de Automotor
+FECHA: 2025-09-20
+HORA: 14:00
+DOMICILIO_HECHO: Estacionamiento del Mendoza Plaza Shopping, Guaymallén, Mendoza
+[VICTIMA]
+NOMBRE: Matías Ezequiel Lopez
+DNI: 38999111
+EDAD: 31
+GENERO: Masculino
+[IMPUTADO]
+NOMBRE: NN
+DNI: NN
+EDAD: NN
+GENERO: NN
+[DESCRIPCION_HECHO]
+La víctima deja estacionado su vehículo, un Volkswagen Gol Trend color blanco, dominio AB-123-CD, en el sector oeste del estacionamiento. Al regresar dos horas después, constata la ausencia del mismo.
+[PRUEBAS]
+- Ticket de estacionamiento del centro comercial. - Se solicitan las cámaras de seguridad del shopping. - Declaración del personal de seguridad que no observó movimientos sospechosos.
+[INTERVENCION_POLICIAL]
+Se toma la denuncia y se carga el dominio del vehículo en el sistema de secuestros a nivel nacional. Se da intervención a la División de Sustracción de Automotores.
+[ESTADO_CASO]
+En Investigación
+---
+[REPORTE_911]
+ID_REPORTE: 20251001-00715
+TIPO_DELITO: Amenazas Coactivas
+FECHA: 2025-10-01
+HORA: 09:15
+DOMICILIO_HECHO: Paso de los Andes 2030, Maipú, Mendoza
+[VICTIMA]
+NOMBRE: Fernando Ariel Gomez
+DNI: 28456789
+EDAD: 45
+GENERO: Masculino
+[IMPUTADO]
+NOMBRE: Vecino no identificado plenamente (apodado "El Rengo")
+DNI: NN
+EDAD: Aprox. 50
+GENERO: Masculino
+[DESCRIPCION_HECHO]
+La víctima denuncia que su vecino lo amenazó de muerte exhibiendo un cuchillo, exigiéndole que retire una denuncia previa por ruidos molestos. El hecho ocurrió en la vía pública, frente al domicilio de ambos.
+[PRUEBAS]
+- Número de expediente de la denuncia previa por ruidos molestos. - Mensajes de texto con insultos enviados por el imputado. - Testimonio de otro vecino que observó la discusión a distancia.
+[INTERVENCION_POLICIAL]
+Se envía personal a constatar la situación y se entrevista a las partes. Se elevan las actuaciones a la fiscalía para que determine las medidas a seguir.
+[ESTADO_CASO]
+En Investigación / Imputado Individualizado
+---
+[REPORTE_911]
+ID_REPORTE: 20251012-00840
+TIPO_DELITO: Tentativa de Ocupación Ilegal
+FECHA: 2025-10-12
+HORA: 20:50
+DOMICILIO_HECHO: Calle Pública s/n, Barrio El Challao, Las Heras, Mendoza
+[VICTIMA]
+NOMBRE: Inmobiliaria "Hogar Feliz" (Apoderado: Raul Gimenez)
+DNI: 21888333
+EDAD: 56
+GENERO: Masculino
+[IMPUTADO]
+NOMBRE: NN (Aprox. 4 personas)
+DNI: NN
+EDAD: NN
+GENERO: Mixto
+[DESCRIPCION_HECHO]
+Un llamado anónimo alerta sobre personas que están forzando la entrada de una vivienda deshabitada y en venta. Indican que han roto un candado y se encuentran ingresando pertenencias.
+[PRUEBAS]
+- Fotografías de los daños en la cerradura y candado. - Testimonio del denunciante anónimo. - Título de propiedad del inmueble a nombre de la inmobiliaria.
+[INTERVENCION_POLICIAL]
+Móviles 150 y 152 de la UEP de Las Heras se desplazan al lugar. Al llegar, las personas se dan a la fuga por los fondos del terreno, dejando atrás algunas herramientas y bolsas con ropa.
+[ESTADO_CASO]
+En Investigación / Prófugos
+---
+[REPORTE_911]
+ID_REPORTE: 20251103-00911
+TIPO_DELITO: Venta de Estupefacientes (Narcomenudeo)
+FECHA: 2025-11-03
+HORA: 23:30
+DOMICILIO_HECHO: Plaza del Barrio Foecyt, San Martín, Mendoza
+[VICTIMA]
+NOMBRE: La Sociedad (Denuncia anónima)
+DNI: N/A
+EDAD: N/A
+GENERO: N/A
+[IMPUTADO]
+NOMBRE: Brian Alexis Quiroga
+DNI: 41567890
+EDAD: 23
+GENERO: Masculino
+[DESCRIPCION_HECHO]
+Tras varias denuncias anónimas sobre venta de drogas en la plaza, personal de la Policía Contra el Narcotráfico (PCN) realiza tareas de observación. Se identifica al imputado realizando "pasamanos" con al menos tres personas a cambio de dinero.
+[PRUEBAS]
+- Filmaciones y fotografías obtenidas durante la vigilancia. - Testimonio del personal policial actuante. - Secuestro de 25 envoltorios de cocaína y dinero en efectivo de baja denominación durante la requisa.
+[INTERVENCION_POLICIAL]
+Se procede a la detención del imputado en el lugar. Se da intervención al Juzgado Federal de turno.
+[ESTADO_CASO]
+Un Detenido
+---
+[REPORTE_911]
+ID_REPORTE: 20251115-01024
+TIPO_DELITO: Abuso de Armas
+FECHA: 2025-11-14
+HORA: 23:55
+DOMICILIO_HECHO: Ruta 7 y Carril a Barriales, Palmira, Mendoza
+[VICTIMA]
+NOMBRE: N/A (Disparos al aire)
+DNI: N/A
+EDAD: N/A
+GENERO: N/A
+[IMPUTADO]
+NOMBRE: NN
+DNI: NN
+EDAD: NN
+GENERO: NN
+[DESCRIPCION_HECHO]
+Tras varias denuncias anónimas 
+[PRUEBAS]
+- Filmaciones y fotografías obtenidas durante la vigilancia. - Testimonio del personal policial actuante. - Secuestro de 25 envoltorios de cocaína y dinero en efectivo de baja denominación durante la requisa.
+[INTERVENCION_POLICIAL]
+Se procede a la detención del imputado en el lugar. Se da intervención al Juzgado Federal de turno.
+[ESTADO_CASO]
+Un Detenido
+---
+[REPORTE_911]
+ID_REPORTE: 20251020-00451
+TIPO_DELITO: Robo Automotor
+FECHA: 2025-10-20
+HORA: 11:30
+DOMICILIO_HECHO: Carril Norte, entre Miguez y carril Costa Canal, San Martín, Mendoza
+[VICTIMA]
+NOMBRE: Ricardo Juarez
+DNI: 28333111
+EDAD: 45
+GENERO: Masculino
+[VEHICULO_SUSTRAIDO]
+DOMINIO: AA123BC
+TIPO: Camioneta
+MARCA: Toyota Hilux
+COLOR: Gris
+[DESCRIPCION_HECHO]
+La víctima manifiesta haber dejado su camioneta estacionada en la banquina del Carril Norte para ingresar a una finca de la zona. Al regresar, aproximadamente 20 minutos después, constata la sustracción de la misma. Se desconoce la dirección de fuga y los autores del hecho.
+[PRUEBAS]
+- No hay cámaras de seguridad en la zona inmediata.
+- Testimonio de la víctima.
+[INTERVENCION_POLICIAL]
+Móvil 2987 de UEP San Martín toma la denuncia. Se irradia novedad del dominio a través de la frecuencia policial para activar protocolo de cerrojo vehicular.
+[ESTADO_CASO]
+En Investigación / Pedido de Secuestro Activo
+---
+[REPORTE_911]
+ID_REPORTE: 20251019-00448
+TIPO_DELITO: Robo Agravado por el Uso de Arma de Fuego
+FECHA: 2025-10-19
+HORA: 21:45
+DOMICILIO_HECHO: Rotonda de los Bomberos, Luján de Cuyo, Mendoza
+[VICTIMA]
+NOMBRE: Sofia Benitez
+DNI: 40123456
+EDAD: 27
+GENERO: Femenino
+[VEHICULO_SUSTRAIDO]
+DOMINIO: AB456DE
+TIPO: Moto
+MARCA: Honda XR 250
+COLOR: Rojo
+[DESCRIPCION_HECHO]
+La víctima se detiene en el semáforo de la rotonda cuando es abordada por dos sujetos en otra motocicleta tipo enduro. El acompañante desciende, la intimida con lo que parecía ser un arma de fuego y la obliga a bajar de su vehículo. Los sujetos huyen con ambas motocicletas en dirección al Acceso Sur.
+[PRUEBAS]
+- Posibles cámaras de seguridad de un comercio cercano (a verificar).
+- Testimonio de la víctima.
+[INTERVENCION_POLICIAL]
+Móvil 3112 de la Comisaría 11ra asiste a la víctima. Se realiza rastrillaje por la zona con resultados negativos.
+[ESTADO_CASO]
+En Investigación / Prófugos
+---
+[REPORTE_911]
+ID_REPORTE: 20251019-00449
+TIPO_DELITO: Hurto Calificado de Efectos del Interior del Vehículo
+FECHA: 2025-10-19
+HORA: 16:00
+DOMICILIO_HECHO: Estacionamiento de Arena Maipú, Maipú, Mendoza
+[VICTIMA]
+NOMBRE: Martin Ceballos
+DNI: 35888999
+EDAD: 38
+GENERO: Masculino
+[VEHICULO_AFECTADO]
+DOMINIO: AC789FG
+TIPO: Auto
+MARCA: Ford Focus
+COLOR: Azul
+[DESCRIPCION_HECHO]
+Sujetos ignorados, previo a romper el cristal de la ventanilla trasera derecha del vehículo, sustraen del interior una mochila que contenía una notebook marca Lenovo, documentación varia y efectos personales. El vehículo se encontraba en el sector oeste del estacionamiento del complejo. La víctima se percata del hecho al regresar a su rodado tras asistir a un evento.
+[PRUEBAS]
+- Se solicita relevamiento de cámaras de seguridad del complejo.
+- Huellas dactilares levantadas del marco de la puerta por Policía Científica.
+[INTERVENCION_POLICIAL]
+Móvil 3050 de la Comisaría 10ma constata el hecho y toma declaración al damnificado.
+[ESTADO_CASO]
+En Investigación
+---
+[REPORTE_911]
+ID_REPORTE: 20251018-00445
+TIPO_DELITO: Desobediencia y Abandono de Vehículo
+FECHA: 2025-10-18
+HORA: 23:50
+DOMICILIO_HECHO: Inicia en calle Lisandro Moyano y finaliza en Barrio San Martín, Las Heras, Mendoza
+[IMPUTADO]
+NOMBRE: NN (Tres sujetos no identificados)
+DNI: NN
+EDAD: NN
+GENERO: Masculino
+[VEHICULO_INVOLUCRADO]
+DOMINIO: AD012HI
+TIPO: Auto
+MARCA: Fiat Cronos
+COLOR: Blanco
+[DESCRIPCION_HECHO]
+Personal de la UEP Las Heras intenta identificar a los ocupantes de un Fiat Cronos en actitud sospechosa. Al dar la voz de alto, el conductor emprende una veloz fuga por calle Lisandro Moyano hacia el oeste. Se inicia una persecución controlada que se extiende por varias cuadras. Finalmente, los ocupantes abandonan el rodado en el interior del Barrio San Martín y huyen a pie por los pasillos, perdiéndoselos de vista. Se verifica que el dominio AD012HI posee pedido de secuestro por Robo Automotor de la fecha 2025-10-17.
+[PRUEBAS]
+- Comunicaciones radiales de la persecución.
+- Vehículo secuestrado para peritajes.
+[INTERVENCION_POLICIAL]
+Móvil 2998 y 3001 de la UEP Las Heras. Se da aviso a la Unidad Fiscal de Automotores.
+[ESTADO_CASO]
+En Investigación / Vehículo Recuperado
+---
+[REPORTE_911]
+ID_REPORTE: 20251020-00452
+TIPO_DELITO: Robo Automotor
+FECHA: 2025-10-20
+HORA: 18:15
+DOMICILIO_HECHO: Playa de estacionamiento de La Barraca Mall, Guaymallén, Mendoza
+[VICTIMA]
+NOMBRE: Laura Fernandez
+DNI: 39456789
+EDAD: 30
+GENERO: Femenino
+[VEHICULO_SUSTRAIDO]
+DOMINIO: AE345JK
+TIPO: Moto
+MARCA: Yamaha FZ-S
+COLOR: Negro
+[DESCRIPCION_HECHO]
+La víctima declara haber dejado su motocicleta con la traba de manubrio colocada en el sector designado para motos del centro comercial. Al salir del mismo, aproximadamente a las 19:30 hs, nota la faltante de su rodado. Personal de seguridad privada del mall no advirtió ninguna maniobra sospechosa.
+[PRUEBAS]
+- Se solicita el registro fílmico de las cámaras de seguridad que apuntan a los accesos y egresos del estacionamiento.
+[INTERVENCION_POLICIAL]
+Móvil 3210 de la Comisaría 25ta entrevista a la víctima y al personal de seguridad. Se labran actas correspondientes.
+[ESTADO_CASO]
+En Investigación / Pedido de Secuestro Activo
+---
+[REPORTE_911]
+ID_REPORTE: 20251018-00446
+TIPO_DELITO: Hurto de Herramientas
+FECHA: 2025-10-18
+HORA: 14:30
+DOMICILIO_HECHO: Calle Perito Moreno al 800, Godoy Cruz, Mendoza
+[VICTIMA]
+NOMBRE: Constructora Andina S.A. (Representante: Jorge Pereyra)
+DNI: 29555666
+EDAD: 48
+GENERO: Masculino
+[VEHICULO_AFECTADO]
+DOMINIO: AF678LM
+TIPO: Camioneta
+MARCA: Volkswagen Amarok
+COLOR: Plata
+[DESCRIPCION_HECHO]
+Sujetos ignorados aprovechan un descuido del personal de una obra en construcción y sustraen de la caja de la camioneta Volkswagen Amarok, que se encontraba estacionada en la puerta, varias cajas de herramientas conteniendo un taladro percutor, una amoladora y herramientas de mano varias. Un vecino de la cuadra afirma haber visto a dos sujetos en una moto tipo FZ color azul merodeando la zona.
+[PRUEBAS]
+- Testimonio de un vecino.
+[INTERVENCION_POLICIAL]
+Móvil 2915 de la Comisaría 7ma arriba al lugar. Se realiza un patrullaje por la zona sin dar con los posibles autores.
+[ESTADO_CASO]
+En Investigación
+---
+[REPORTE_911]
+ID_REPORTE: 20251020-00453
+TIPO_DELITO: Robo Automotor
+FECHA: 2025-10-20
+HORA: 03:15
+DOMICILIO_HECHO: Calle San Juan y Rondeau, Capital, Mendoza
+[VICTIMA]
+NOMBRE: Lucas Gimenez
+DNI: 41987654
+EDAD: 24
+GENERO: Masculino
+[VEHICULO_SUSTRAIDO]
+DOMINIO: AG901NO
+TIPO: Auto
+MARCA: Chevrolet Onix
+COLOR: Verde
+[DESCRIPCION_HECHO]
+La víctima manifiesta que dejó su vehículo estacionado sobre calle San Juan durante la noche y al salir de su domicilio en la mañana para dirigirse a su trabajo, constata que autores ignorados lo han sustraído. No se observan vidrios rotos en el lugar.
+[PRUEBAS]
+- Se realiza un relevamiento de cámaras de seguridad de la Municipalidad de Capital en la zona.
+[INTERVENCION_POLICIAL]
+Móvil 3501 de la Comisaría 1ra toma la denuncia. Se emite la alerta del dominio a las movilidades.
+[ESTADO_CASO]
+En Investigación / Pedido de Secuestro Activo
+---
+[REPORTE_911]
+ID_REPORTE: 20251017-00440
+TIPO_DELITO: Robo Automotor en Grado de Tentativa y Daños
+FECHA: 2025-10-17
+HORA: 22:00
+DOMICILIO_HECHO: Av. Hipólito Yrigoyen al 1500, San Rafael, Mendoza
+[VICTIMA]
+NOMBRE: Carla Diaz
+DNI: 33222111
+EDAD: 39
+GENERO: Femenino
+[VEHICULO_AFECTADO]
+DOMINIO: AH234PQ
+TIPO: Moto
+MARCA: Bajaj Rouser 200
+COLOR: Naranja
+[DESCRIPCION_HECHO]
+La víctima escucha ruidos provenientes de la cochera abierta de su vivienda. Al asomarse, observa a un sujeto intentando forzar el tambor de arranque de su moto. Al gritar la víctima, el sujeto desiste de su accionar, la amenaza verbalmente y huye corriendo del lugar. Se constatan daños en el sistema de encendido y en la traba del manubrio del rodado.
+[PRUEBAS]
+- Testimonio de la víctima y descripción física del autor.
+- Daños en el vehículo.
+[INTERVENCION_POLICIAL]
+Móvil 3880 de la UEP San Rafael realiza un patrullaje en las inmediaciones con resultado negativo. Policía Científica trabaja en el lugar para levantar rastros.
+[ESTADO_CASO]
+En Investigación
+---
